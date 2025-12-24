@@ -1,0 +1,4 @@
+name = "word-count-task"
+description = "Counts word occurrences in input.txt and writes results to output.txt"
+memory_mb = 128
+storage_mb = 50
